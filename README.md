@@ -56,7 +56,7 @@ I'm **Abdul Nahmath**, a passionate Cybersecurity and Network Engineering enthus
 
 ---
 
-![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?logo=microsoft&logoColor=white)
+![Microsoft]([https://img.shields.io/badge/Microsoft-0078D4?logo=microsoft&logoColor=white](https://learn.microsoft.com/en-us/))
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white)
 ![Google](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white)
 ![LinkedIn Learning](https://img.shields.io/badge/LinkedIn_Learning-0077B5?logo=linkedin&logoColor=white)
