@@ -1,48 +1,66 @@
-# 👋 Hello, I'm Abdul Nahmath
-
-🎓 BSc (Hons) Cyber Security | 💻 IT Support Engineer | 🌐 Networking & Security Enthusiast
-
-Welcome to my GitHub! I'm a cybersecurity-focused IT professional with hands-on experience in network configuration, system administration, and user support. I thrive in technical environments, enjoy problem-solving, and continuously seek to expand my skills through practical projects and professional certifications.
+### Hi there 👋
+I'm **Abdul Nahmath**, a passionate Cybersecurity and Network Engineering enthusiast from 🇱🇰 Sri Lanka.
 
 ---
 
-## 🔧 Work Experience
+🎯 **What I Do**
 
-💼 IT Support Engineer  
-📍 The Technocity Pvt Ltd  
-🗓️ Jan 2023 – Present
-
-- Provide technical support across hardware, software, and networking systems  
-- Manage Windows OS environments and maintain user infrastructure  
-- Assist in updates, inventory control, and IT security policy compliance
+💻 Aspiring Cybersecurity Professional | IT Support Engineer  
+🔧 Experienced in network configuration, Windows administration, and endpoint security  
+📚 Lifelong learner with over 30+ certifications from Google, Microsoft, Cisco, LinkedIn, and more
 
 ---
 
-## 🎓 Education
+🧠 **Skills**
 
-🎓 BSc (Hons) in Cyber Security (Top-Up)  
-University of Gloucestershire — Expected 2025
-
-🎓 Higher National Diploma (HND) in Network Engineering  
-University of Gloucestershire — Completed 2024
-
-🎓 Assured Diploma in Information Technology (DITEC)  
-ESOFT Metro Campus — Completed 2022
-
-🎓 Certificate in Hardware Engineering with Networking  
-Turnkey IT Campus — Completed 2022  
-Grade: 80%
+- Windows Desktop & Server Administration
+- Network Configuration & Troubleshooting
+- Microsoft Azure, Virtual Machines & Entra ID
+- Information Security Principles
+- Tools: Cisco Packet Tracer, Wireshark, PowerShell, JIRA
 
 ---
 
-## 🏅 Certifications
+🎓 **Education**
 
-- 🛡️ Google — IT Security: Defense Against the Digital Dark Arts  
-- 🧰 Simplilearn — Introduction to JIRA  
-- ☁️ Microsoft — Getting Started with Azure  
-- 💻 Turnkey IT Campus — Certificate in Hardware Engineering with Networking
+- 🎓 BSc (Hons) in Cyber Security — *University of Gloucestershire* — Expected 2025
+- 🎓 Higher National Diploma (HND) in Network Engineering — 2024
+- 🎓 Assured Diploma in Information Technology (DITEC) — ESOFT Metro Campus, 2022
+- 🎓 Certificate in Hardware Engineering with Networking — Turnkey IT Campus, 2022 (80%)
 
-📎 You can also embed certification badges or GIFs like:
+---
 
-![Google IT Security Certificate](https://img.shields.io/badge/Google-IT_Security-blue)  
-![Microsoft Azure](https)
+🏅 **Certifications** *(Selected)*
+
+- Google: IT Security, System Admin, Networking, Tech Support
+- Microsoft: Azure Fundamentals, Endpoint Management, Windows Admin
+- Cisco: Networking Basics, Cybersecurity Awareness
+- HP LIFE: Customer Experience, Cybersecurity Awareness
+- LinkedIn Learning: Azure, Windows 11 Admin, Customer Service
+
+---
+
+📁 **Featured Projects**
+
+- 🔐 **Network Security Implementation** — Designed firewall & access control for SME
+- ☁️ **Windows Deployment on Azure** — Configured Azure VMs, virtual networks, remote access
+
+---
+
+📫 **Connect With Me**
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/abdul-nahmath)  
+- 📧 [Email]: (nahmathnaleem@gmail.com).  
+- 📍 Based in Sri Lanka — Open to global remote opportunities
+- 👨‍💻 Exploring roles in Cybersecurity, Network Engineering, or IT Support
+
+---
+
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?logo=microsoft&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white)
+![Google](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white)
+![LinkedIn Learning](https://img.shields.io/badge/LinkedIn_Learning-0077B5?logo=linkedin&logoColor=white)
+![HP LIFE](https://img.shields.io/badge/HP_LIFE-0096D6?logo=hp&logoColor=white)
+
+Thanks for visiting my GitHub profile!
+Feel free to explore, connect, and collaborate. 🚀
